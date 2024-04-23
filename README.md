@@ -1,1 +1,1 @@
-# test
+A small Javascript and HTML project for simple Calculator functionalities using Calulator GUI on the browser.
